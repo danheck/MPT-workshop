@@ -5,7 +5,7 @@ This repository provides the material for the workshop:
 ### Multinomial-Processing-Tree (MPT) Modeling: Basic Methods and Recent Advances
 
 * Organizers: Edgar Erdfelder, Daniel W. Heck & Franziska Meissner
-* Date: Saturday, 15.09.2018, 13-19h and Sunday, 16.09.2018, 9-19h
+* Date: Saturday, 15.09.2018, 13-19h and Sunday, 16.09.2018, 9-18h
 * Location: University of Frankfurt, SH 0.107 (Seminarhaus). 
 * More information: https://www.dgpskongress.de/frontend/index.php?page_id=1055
 
