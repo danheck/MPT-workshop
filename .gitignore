@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+gpt.Rproj
+*.Rmd
+*.docx
+*.xlsx
+*_cache
+*_files
+*/figures/*
+*.tex
+*.pptx
