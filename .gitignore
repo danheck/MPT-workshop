@@ -9,6 +9,8 @@
 *.tex
 *.pptx
 
+*_live.R
+
 */graphical_model/*
 */rmod/*
 */figures/*
