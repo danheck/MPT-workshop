@@ -1,0 +1,469 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=latex 2018.1.29)  5 FEB 2018 15:19
+entering extended mode
+**./betaMPT.tex
+(betaMPT.tex
+LaTeX2e <2017-04-15>
+Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pst-all.sty"
+Package: pst-all 2008/01/01 the main pstricks tools
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
+Package: pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\iftex\iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\dvips.def"
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex"))
+\XKV@depth=\count87
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex"
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count88
+\pstFP@xia=\count89
+\pstFP@xib=\count90
+\pstFP@xfa=\count91
+\pstFP@xfb=\count92
+\pstFP@rega=\count93
+\pstFP@regb=\count94
+\pstFP@regs=\count95
+\pstFP@times=\count96
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-c
+ommon.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen103
+\pgfutil@tempdimb=\dimen104
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-c
+ommon-lists.tex))
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.c
+ode.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfi
+ltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.co
+de.tex
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
+ex
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.co
+de.tex
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.co
+de.tex
+\pgf@x=\dimen105
+\pgf@xa=\dimen106
+\pgf@xb=\dimen107
+\pgf@xc=\dimen108
+\pgf@y=\dimen109
+\pgf@ya=\dimen110
+\pgf@yb=\dimen111
+\pgf@yc=\dimen112
+\c@pgf@counta=\count97
+\c@pgf@countb=\count98
+\c@pgf@countc=\count99
+\c@pgf@countd=\count100
+\pgfutil@tempcnta=\count101
+\pgfutil@tempcntb=\count102
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.
+code.tex
+\pgfmath@dimen=\dimen113
+\pgfmath@count=\count103
+\pgfmath@box=\box26
+\pgfmath@toks=\toks20
+\pgfmath@stack@operand=\toks21
+\pgfmath@stack@operation=\toks22
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.code.tex
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.basic.code.tex)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.trigonometric.code.tex)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.random.code.tex)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.comparison.code.tex)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.base.code.tex)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.round.code.tex)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.misc.code.tex)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.integerarithmetics.code.tex)))
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.c
+ode.tex
+\c@pgfmathroundto@lastzeros=\count104
+))
+\pgffor@iter=\dimen114
+\pgffor@skip=\dimen115
+\pgffor@stack=\toks23
+\pgffor@toks=\toks24
+)
+\psLoopIndex=\count105
+
+`PSTricks' v2.82  <2018/01/06> (tvz,hv)
+\pst@dima=\dimen116
+\pst@dimb=\dimen117
+\pst@dimc=\dimen118
+\pst@dimd=\dimen119
+\pst@dimg=\dimen120
+\pst@dimh=\dimen121
+\pst@dimm=\dimen122
+\pst@dimn=\dimen123
+\pst@dimo=\dimen124
+\pst@dimp=\dimen125
+\pst@hbox=\box27
+\pst@ibox=\box28
+\pst@boxg=\box29
+\pst@cnta=\count106
+\pst@cntb=\count107
+\pst@cntc=\count108
+\pst@cntd=\count109
+\pst@cntg=\count110
+\pst@cnth=\count111
+\pst@cntm=\count112
+\pst@cntn=\count113
+\pst@cnto=\count114
+\pst@cntp=\count115
+\@zero=\count116
+\pst@toks=\toks25
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.con")
+\psunit=\dimen126
+\psxunit=\dimen127
+\psyunit=\dimen128
+\pst@C@@rType=\count117
+\pslinewidth=\dimen129
+\psk@startLW=\dimen130
+\psk@endLW=\dimen131
+\pst@customdefs=\toks26
+\pslinearc=\dimen132
+\pst@symbolStep=\dimen133
+\pst@symbolWidth=\dimen134
+\pst@symbolLinewidth=\dimen135
+\everypsbox=\toks27
+\psframesep=\dimen136
+\pslabelsep=\dimen137
+\sh@wgridXunit=\dimen138
+\sh@wgridYunit=\dimen139
+\pst@shift=\dimen140
+)
+File: pstricks.tex 2018/01/06 v2.82 `PSTricks' (tvz,hv)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex")
+File: pst-fp.tex 2018/01/06 v2.82 `PST-fp' (hv)
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-plot\pst-plot.sty
+Package: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\pst-xkey.sty"
+Package: pst-xkey 2005/11/25 v1.6 package wrapper for pst-xkey.tex (HA)
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\multido\multido.sty
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\multido\multido.tex
+ v1.42, 2010/05/14 <tvz>
+\multido@count=\count118
+\multidocount=\count119
+\multido@stuff=\toks28
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
+Package: pst-plot 2011/04/13 package wrapper for pst-plot.tex (hv)
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-plot\pst-plot.tex
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-tools\pst-tools.tex
+`PST-tools' v0.09b, 2017/12/03 (hv))
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pstricks-add\pstricks-a
+dd.tex
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-node\pst-node.tex
+ v1.41, 2017/12/30
+\psrow=\count120
+\pscol=\count121
+\psmatrixcnt=\count122
+\psrowsep=\skip43
+\pscolsep=\skip44
+\pst@args=\count123
+\num@pts=\count124
+\pst@argcnt=\count125
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-arrow\pst-arrow.tex
+`pst-arrow' v0.01, 2016/09/01 (dr,hv)
+\pshooklength=\dimen141
+\pshookwidth=\dimen142
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-3d\pst-3d.tex
+`PST-3d' v1.11, 2010/02/14 (tvz))
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-math\pst-math.tex
+`pst-math' v0.63 , (CJ,hv)) `pstricks-add' v3.85, 2018/01/29 (dr,hv)
+\psparallelogramsep=\dimen143
+\pst@cntC=\count126
+\pst@stepcount=\count127
+\chart@ColorIndex=\dimen144
+\chart@ColorStep=\dimen145
+\pst@chartHeight=\dimen146
+\pst@chartStackDepth=\dimen147
+\pst@chartStackWidth=\dimen148
+\chart@Toggle=\count128
+\psVectorCtr=\count129
+)
+ v1.87, 2017/12/12 (tvz,hv)
+\pstRadUnit=\dimen149
+\pstRadUnitInv=\dimen150
+\pst@linecnt=\count130
+\RCD@file=\read1
+\psxlabelsep=\dimen151
+\psylabelsep=\dimen152
+\psk@subticksize=\dimen153
+\pst@xticksizeA=\dimen154
+\pst@xticksizeB=\dimen155
+\pst@xticksizeC=\dimen156
+\pst@yticksizeA=\dimen157
+\pst@yticksizeB=\dimen158
+\pst@yticksizeC=\dimen159
+\@digitcounter=\count131
+\psk@llx=\dimen160
+\psk@lly=\dimen161
+\psk@urx=\dimen162
+\psk@ury=\dimen163
+\pst@xunit=\dimen164
+\pst@yunit=\dimen165
+)
+File: pst-plot.tex 2017/12/12 1.87 `pst-plot' (tvz,hv)
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-node\pst-node.sty
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-node\pst-node.tex)
+File: pst-node.tex 2017/12/12 1.87 `pst-node' (tvz,hv)
+) (C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-tree\pst-tree.sty
+Package: pst-tree 2009/01/25 package wrapper for pst-tree.tex
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-tree\pst-tree.tex
+ v1.13, 2017/02/18(tvz,dg,hv)
+\pstree@rootbox=\box30
+\pstree@box=\box31
+\psnodecnt=\count132
+\pstreelevel=\count133
+\pstreecnt=\count134
+\pstree@cnt=\count135
+\pstree@stop=\count136
+)
+File: pst-tree.tex 2017/02/18 1.13 `pst-tree' (tvz,hv)
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-grad\pst-grad.sty
+Package: pst-grad 2004/07/15 package wrapper for pst-grad.tex (hv)
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-grad\pst-grad.tex
+`pst-grad' v1.06, 2006/11/27 (tvz,dg,hv))
+File: pst-grad.tex 2006/11/27 1.06 `pst-grad' (tvz)
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-coil\pst-coil.sty
+Package: pst-coil 2010/02/01 package wrapper for pst-coil.tex (hv)
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-coil\pst-coil.tex
+ v1.06, 2006/11/27
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-node\pst-node.tex))
+File: pst-coil.tex 2015/05/13 v1.07 `PST-coil' (tvz,hv)
+) (C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-text\pst-text.sty
+Package: pst-text 2006/01/01 package wrapper for pst-text.tex (hv)
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-text\pst-text.tex
+ v1.00, 2006/11/05(tvz,hv))
+File: pst-text.tex 2006/11/05 1.00 `pst-text' (tvz)
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-3d\pst-3d.sty
+Package: pst-3d 2009/07/28 package wrapper for pst-3d.tex (hv)
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-3d\pst-3d.tex)
+File: pst-3d.tex 2006/11/05 v1.00 `PST-3d' (hv)
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-eps\pst-eps.sty
+Package: pst-eps 2005/05/20 package wrapper for pst-eps.tex (hv)
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-eps\pst-eps.tex
+ v1.00, 2006/11/04
+\pst@epsout=\write3
+\pst@tempout=\write4
+)
+File: pst-eps.tex 2006/11/04 1.00 `pst-eps' (tvz)
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-fill\pst-fill.sty
+Package: pst-fill 2005/09/13 package wrapper for pst-fill.tex (hv)
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-fill\pst-fill.tex
+`PST-Fill' v1.01, 2007/03/10 (tvz,dg,hv)
+\pst@fillbox=\box32
+)
+File: pst-fill.tex 2007/03/10 v1.01 `PST-fill' (tvz,dg)
+)
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pstricks-add\pstricks-add
+.sty
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\latex\pst-math\pst-math.sty
+Package: pst-math 2014/07/30 package wrapper for PSTricks pst-math.tex
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-math\pst-math.tex)
+File: pst-math.tex 2007/03/10 v1.01 `PST-math' (hv)
+)
+Package: pstricks-add 2010/02/11 v. 0.14 package wrapper for pstricks-add.tex (
+hv)
+
+(C:\Users\Daniel\AppData\Roaming\MiKTeX\2.9\tex\generic\pstricks-add\pstricks-a
+dd.tex)
+File: pstricks-add.tex 2007/03/10 v1.01 `PSTricks-add' (hv)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(com.braju.graphicalmodels.sty
+Package: com.braju.graphicalmodels 2000/10/26 PSTricks extensions by Henrik Ben
+gtsson <hb@maths.lth.se>
+ (com.braju.pstricks.sty
+Package: com.braju.pstricks 2000/12/03 PSTricks extensions by Henrik Bengtsson 
+<hb@maths.lth.se>
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count137
+\calc@Bcount=\count138
+\calc@Adimen=\dimen166
+\calc@Bdimen=\dimen167
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count139
+\calc@Cskip=\skip47
+)
+\pst@Thermometer@width=\skip48
+\pst@Thermometer@height=\skip49
+)
+\GM@x=\skip50
+\GM@y=\skip51
+\GM@xa=\skip52
+\GM@ya=\skip53
+\GM@xb=\skip54
+\GM@yb=\skip55
+\GM@xc=\skip56
+\GM@yc=\skip57
+\GM@dx=\skip58
+\GM@dy=\skip59
+\GM@dima=\skip60
+\GM@dimb=\skip61
+\GM@dimc=\skip62
+\c@GM@counta=\count140
+\c@GM@countb=\count141
+\c@GM@countc=\count142
+\GM@nodeSize=\skip63
+\GM@offset=\skip64
+\c@GM@observed=\count143
+\c@GM@query=\count144
+) (betaMPT.aux)
+\openout1 = `betaMPT.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 91.
+
+[1
+
+]
+PSTricks: Converting TeX box to EPS.
+          With dvips, use -E option.
+(betaMPT.aux) ) 
+Here is how much of TeX's memory you used:
+ 10195 strings out of 493308
+ 185415 string characters out of 3138845
+ 303986 words of memory out of 3000000
+ 13576 multiletter control sequences out of 15000+200000
+ 10967 words of font info for 38 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,6n,54p,663b,484s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on betaMPT.dvi (1 page, 20836 bytes).
