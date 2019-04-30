@@ -11,11 +11,11 @@
 
 *_live.R
 
-*/graphical_model/*
-*/rmod/*
-*/figures/*
-*/greater_goods/*
-*/appendix/*
-*_cache
-*_files
+**/graphical_model/*
+**/rmod/*
+**/figures/*
+**/greater_goods/*
+**/appendix/*
+**_cache
+**_files
 zz */
