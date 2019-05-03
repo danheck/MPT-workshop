@@ -2,7 +2,7 @@
 ############ BASICS
 ############
 ############ This script matches with the examples presented in
-############          "08-ApplicationIV-TreeBUGS.pdf"
+############          "07-ApplicationIV-TreeBUGS.pdf"
 ############
 ############################################################################
 
