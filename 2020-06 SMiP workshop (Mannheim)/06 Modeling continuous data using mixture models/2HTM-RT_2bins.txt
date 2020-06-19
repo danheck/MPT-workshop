@@ -1,0 +1,13 @@
+# RT-extended 2HTM (here: "simple" format in MPTinR)
+
+# Lures:
+d*L_dn     + (1-d)*(1-g)*L_g         # CR | fast
+d*(1-L_dn) + (1-d)*(1-g)*(1-L_g)     # CR | slow
+(1-d)*g*L_g                          # FA | fast
+(1-d)*g*(1-L_g)                      # FA | slow
+
+# Targets:
+d*L_do     + (1-d)*g*L_g             # hit | fast
+d*(1-L_do) + (1-d)*g*(1-L_g)         # hit | slow
+(1-d)*(1-g)*L_g                      # miss | fast
+(1-d)*(1-g)*(1-L_g)                  # miss | slow
