@@ -22,6 +22,9 @@ Heck, D. W., Moshagen, M., & Erdfelder, E. (2014). Model selection by minimum de
 * Example how to compute/use Bayes factors for MPT models:
 Heck, D. W., Boehm, U., Böing-Messing, F., Bürkner, P.-C., Derks, K., Dienes, Z., … Hoijtink, H. (2020). A review of applications of the Bayes factor in psychological research. PsyArXiv. Retrieved from https://psyarxiv.com/cu43g
 
+* Generating informative studies/designs via simulation:
+Heck, D. W., & Erdfelder, E. (2019). Maximizing the expected information gain of cognitive modeling via  design optimization. Computational Brain & Behavior, 2(3–4), 202–209. https://doi.org/10.1007/s42113-019-00035-0
+
 
 
 # Order Constraints
@@ -32,3 +35,14 @@ Kuhlmann, B. G., Erdfelder, E., & Moshagen, M. (2019). Testing interactions in m
 
 * Adjusted priors for order-constrained reparameterizations:
 Heck, D. W., & Wagenmakers, E.-J. (2016). Adjusted priors for Bayes factors involving reparameterized order constraints. Journal of Mathematical Psychology, 73, 110–116. https://doi.org/10.1016/j.jmp.2016.05.004
+
+
+# Individual Differences & Pooling
+
+* Paper showing that shrinkage/pooling is beneficial in general:
+Efron, B., & Morris, C. (1977). Stein’s paradox in statistics. Scientific American, 236(5), 119–127. https://www.jstor.org/stable/24954030
+
+* Required sample size N for estimating correlations of MPT parameters:
+Jobst, L. J., Heck, D. W., & Moshagen, M. (2020). Estimating correlations in MPT Models: A comparison of approaches. Journal of Mathematical Psychology, 98, 102400. https://doi.org/10.1016/j.jmp.2020.102400
+
+
