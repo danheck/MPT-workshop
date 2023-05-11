@@ -23,6 +23,10 @@ zz */
 
 **/temporary/**
 
+*.DS_Store
+
+*.mp4
+
 Edgar MPT*/
 2020-02 MPI Workshop*/Literature*
 2020-06 SMiP workshop (Mannheim)/participants_Foundations2_MPTModeling25.-26.06.20.pdf
@@ -30,4 +34,10 @@ Edgar MPT*/
 
 2021-06 SMiP workshop (Mannheim)/participants/
 
-2022-03 TeaP workshop (Cologne)/Email
+# hide newer workshops with identical materials & videos:
+2022-03 TeaP workshop (Cologne)/
+2022-05 SMiP workshop (Mannheim)/
+
+
+#2023-04 SMiP workshop (Mannheim)/
+
