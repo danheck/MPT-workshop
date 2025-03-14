@@ -1,0 +1,9 @@
+# Targets
+target  hit  do
+target  hit  (1-do)*g
+target  miss (1-do)*  (1-g)
+
+# Lures
+lure  cr  dn
+lure  fa  (1-dn)*g
+lure  cr  (1-dn)*(1-g)

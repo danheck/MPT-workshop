@@ -1,0 +1,17 @@
+# The two-high threshold model of source monitoring (2HTSM)
+E     EE     D1*d1
+E     EE     D1*(1-d1)*a
+E     EU     D1*(1-d1)*(1-a)
+E     EE     (1-D1)*b*g
+E     EU     (1-D1)*b*(1-g)
+E     EN     (1-D1)*(1-b)
+U     UU     D2*d2
+U     UE     D2*(1-d2)*a
+U     UU     D2*(1-d2)*(1-a)
+U     UE     (1-D2)*b*g
+U     UU     (1-D2)*b*(1-g)
+U     UN     (1-D2)*(1-b)
+N     NN     D3
+N     NE     (1-D3)*b*g
+N     NU     (1-D3)*b*(1-g)
+N     NN     (1-D3)*(1-b)
