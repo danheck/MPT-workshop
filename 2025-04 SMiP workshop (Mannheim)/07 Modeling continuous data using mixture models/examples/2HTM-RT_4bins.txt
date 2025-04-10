@@ -1,0 +1,22 @@
+# RT-extended 2HTM
+
+
+# False alarms + correct rejections
+d*L_dn1*L_dn2         + (1-d)*(1-g)*L_g1*L_g2         # FA | very fast
+d*L_dn1*(1-L_dn2)     + (1-d)*(1-g)*L_g1*(1-L_g2)     # FA | fast
+d*(1-L_dn1)*L_dn3     + (1-d)*(1-g)*(1-L_g1)*L_g3     # FA | slow
+d*(1-L_dn1)*(1-L_dn3) + (1-d)*(1-g)*(1-L_g1)*(1-L_g3) # FA | very slow
+(1-d)*g*L_g1*L_g2
+(1-d)*g*L_g1*(1-L_g2)
+(1-d)*g*(1-L_g1)*L_g3
+(1-d)*g*(1-L_g1)*(1-L_g3)
+
+# Hits + Misses
+d*L_do1*L_do2         + (1-d)*g*L_g1*L_g2
+d*L_do1*(1-L_do2)     + (1-d)*g*L_g1*(1-L_g2)
+d*(1-L_do1)*L_do3     + (1-d)*g*(1-L_g1)*L_g3
+d*(1-L_do1)*(1-L_do3) + (1-d)*g*(1-L_g1)*(1-L_g3)
+(1-d)*(1-g)*L_g1*L_g2
+(1-d)*(1-g)*L_g1*(1-L_g2)
+(1-d)*(1-g)*(1-L_g1)*L_g3
+(1-d)*(1-g)*(1-L_g1)*(1-L_g3)

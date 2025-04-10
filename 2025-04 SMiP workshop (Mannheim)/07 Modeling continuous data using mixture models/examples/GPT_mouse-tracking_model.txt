@@ -1,0 +1,23 @@
+####### Data
+# Stimulus: Typical / Atypical
+# Response: correct / false
+# Continuous variable: Maximum deviation (MAD)
+
+####### Model: Feature Comparison Model
+# f_t / f_a = P(overall comparison)
+# c_1t / c_1a = P(correct | overall)
+# c_2t / c_2a = P(correct | defining features)
+
+
+# typical animals
+typ  ; tc  ; f_t*c_1t         ; m_1        , s_1
+typ  ; tf  ; f_t*(1-c_1t)     ; m_1        , s_1
+typ  ; tc  ; (1-f_t)*c_2t     ; m_1+m_diff , s_2
+typ  ; tf  ; (1-f_t)*(1-c_2t) ; m_1+m_diff , s_2
+
+
+# atypical animals
+atyp ; ac  ; f_a*c_1a         ; m_1        , s_1
+atyp ; af  ; f_a*(1-c_1a)     ; m_1        , s_1
+atyp ; ac  ; (1-f_a)*c_2a     ; m_1+m_diff , s_2
+atyp ; af  ; (1-f_a)*(1-c_2a) ; m_1+m_diff , s_2
